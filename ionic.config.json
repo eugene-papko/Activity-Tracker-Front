@@ -1,0 +1,7 @@
+{
+  "name": "ActivityTracker",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
